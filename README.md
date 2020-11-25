@@ -1,4 +1,5 @@
-# Portfolio
+![](https://placehold.it/1200x300/374c53/FFFFFF/?text=Portfolio)
+
 This is my learning journey at Makers Academy.
 
 It includes examples of my work, challenges completed, and the processes I have learnt and developed while working towards the following goals.
