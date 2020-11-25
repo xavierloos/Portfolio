@@ -41,4 +41,6 @@ The next table are link to the specific week, click the number or you can find t
 
 
 ## External Links
+<a href="https://github.com/makersacademy/course">Makers Course</a>
+
 
