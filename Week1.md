@@ -10,7 +10,7 @@
  - Relax and meditate 
  - Do the challenges of the week and attend to the workshops
  - Read the documentation provided
- - Debug programns
+ - Debug programs
  - Use the solving problems technique
  - Pairing sessions: work with my pair to solve the problems
  - Get feedback from my pair partner
