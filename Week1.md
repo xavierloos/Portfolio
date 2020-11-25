@@ -13,7 +13,7 @@
  - Debug programs
  - Use the solving problems technique
  - Pairing sessions: work with my pair to solve the problems
- - Get feedback from my pair partner
+ - Get feedback from my pair.
  
  ## Challenges
  <a href="https://github.com/xavierloos/boris-bikes" target="_blank">
