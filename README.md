@@ -6,7 +6,7 @@ It includes examples of my work, challenges completed, and the processes I have 
 Click through to any of the following links for more detail.
 
 ## Goals
-#### I can make anything
+### I can make anything
 - I can TDD anything (Test-Driven Development)
 - I can program fluently
 - I can debug anything
@@ -14,11 +14,11 @@ Click through to any of the following links for more detail.
 - I can refactor anything
 - I have a methodical approach to solving anything
 
-#### I'm equipped for long term growth
+### I'm equipped for long term growth
 - I manage my own wellbeing
 - I can learn anything by myself
 
-#### I help my teams succeed
+### I help my teams succeed
 - I use an agile product development process
 - I write code that is easy to change
 - I can justify the way I work
@@ -45,5 +45,5 @@ Click through to any of the following links for more detail.
 - 11
 - 12
 
-#### External Links
+## External Links
 
