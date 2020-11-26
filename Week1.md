@@ -14,13 +14,17 @@
  - Use the solving problems technique
  - Pairing sessions: work with my pair to solve the problems
  - Get feedback from my pair.
- 
- ## Challenges
+
+## Challenges
  <a href="https://github.com/xavierloos/boris-bikes" target="_blank">
     <img height="aut0" width="29%" src="https://github-readme-stats.vercel.app/api/pin/?username=xavierloos&repo=boris-bikes" />
   </a>
-  
-  ## Feedback
+## Plan
+   
+## Skills Workshop
+- <a href="https://github.com/makersacademy/skills-workshops/blob/master/week-1/TDD_process.md">The TDD Process</a>
+   
+## Feedback
 
 
 
