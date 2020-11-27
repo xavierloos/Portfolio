@@ -17,11 +17,15 @@
 
 ## Challenges
  <a href="https://github.com/xavierloos/boris-bikes" target="_blank">
-    <img height="aut0" width="29%" src="https://github-readme-stats.vercel.app/api/pin/?username=xavierloos&repo=boris-bikes" />
+    <img height="aut0" width="29%" src="https://github.com/xavierloos/boris_bikes" />
   </a>
    
 ## Skills Workshop
-- <a href="https://github.com/makersacademy/skills-workshops/blob/master/week-1/TDD_process.md">The TDD Process</a>
+ <a href="https://github.com/xavierloos/dice_app" target="_blank">
+    <img height="auto" width="29%" src="https://github.com/xavierloos/dice_app" />
+  </a>
+
+
    
 ## Feedback
 
