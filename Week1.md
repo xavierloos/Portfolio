@@ -16,9 +16,10 @@
  - Get feedback from my pair.
 
 ## Challenges
- <a href="https://github.com/xavierloos/boris_bikes" target="_blank">
-    <img height="aut0" width="29%" src="https://github.com/xavierloos/boris_bikes" />
+  <a href="https://github.com/xavierloos/boris_bikes" target="_blank">
+    <img height="aut0" width="29%" src="https://github-readme-stats.vercel.app/api/pin/?username=xavierloos&repo=boris_bikes" />
   </a>
+
    
 ## Skills Workshop
 <a href="https://github.com/xavierloos/dice_app" target="_blank">
