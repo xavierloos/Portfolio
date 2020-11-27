@@ -43,6 +43,7 @@ The next table are link to the specific week, click the number or you can find t
 ## External Links
 - <a href="https://github.com/makersacademy/course">Makers Course</a>
 - <a href="https://airtable.com/shrn6cujjhTRxqfob/tblU9M74TCpg89oGC">Timetable</a>
+- <a href="https://forms.gle/Dzfosv8v6hZTJcF39">Pair Feedback Form</a>
 
 
 
