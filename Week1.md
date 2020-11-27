@@ -29,6 +29,16 @@
 
    
 ## Feedback
-
+<details>
+  <summary>Will Helliwell - 20/NOV20 </summary>
+  <p><b>Things that went well:</b></p>
+ <p>
+<b><i>Communication</i></b> - you always explained your thought process when you wanted to try something. If you didn’t understand something you always raised it.</p>
+ <p>
+<b><i>Listening</i></b> - you always listened if I had something to say and then tried to work with I said</p>
+ <p>
+<p><b>Things to improve:</b></p>
+ <p>Genuinely struggling to come up with something not good about your pairing style, I thought it was very collaborative which was great. Perhaps something will come to mind after my session this afternoon, in which case I'll send it across :slightly_smiling_face:</p>
+</details>
 
 
