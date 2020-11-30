@@ -24,17 +24,17 @@
 ## Challenges
 
   <a href="https://github.com/xavierloos/boris_bikes" target="_blank">
-    <img height="aut0" width="29%" src="https://github-readme-stats.vercel.app/api/pin/?username=xavierloos&repo=boris_bikes" />
+    <img height="auto" width="39%" src="https://github-readme-stats.vercel.app/api/pin/?username=xavierloos&repo=boris_bikes" />
   </a>
 
   <a href="https://github.com/xavierloos/airport_challenge" target="_blank">
-    <img height="aut0" width="29%" src="https://github-readme-stats.vercel.app/api/pin/?username=xavierloos&repo=airport_challenge" />
+    <img height="auto" width="39%" src="https://github-readme-stats.vercel.app/api/pin/?username=xavierloos&repo=airport_challenge" />
   </a>
 
 ## Skills Workshop
 
 <a href="https://github.com/xavierloos/dice_app" target="_blank">
-    <img height="aut0" width="29%" src="https://github-readme-stats.vercel.app/api/pin/?username=xavierloos&repo=dice_app" />
+    <img height="auto" width="39%" src="https://github-readme-stats.vercel.app/api/pin/?username=xavierloos&repo=dice_app" />
   </a>
 
 ## Feedback

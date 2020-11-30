@@ -32,7 +32,7 @@ Click through to any of the following links for more detail.
 ## Projects
 
 <a href="https://github.com/xavierloos/boris_bikes" target="_blank">
-    <img height="aut0" width="29%" src="https://github-readme-stats.vercel.app/api/pin/?username=xavierloos&repo=boris_bikes" />
+    <img height="auto" width="39%" src="https://github-readme-stats.vercel.app/api/pin/?username=xavierloos&repo=boris_bikes" />
   </a>
 
 ## Feedbacks
