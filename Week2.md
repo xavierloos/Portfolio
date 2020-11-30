@@ -30,7 +30,7 @@
 ## Skills Workshop
 
 <a href="https://github.com/makersacademy/skills-workshops/tree/master/week-2/code_review" target="_blank">
-    <img height="aut0" width="29%" src="https://github-readme-stats.vercel.app/api/pin/?username=makersacademy&repo=code_review" />
+    <img height="aut0" width="29%" src="https://github-readme-stats.vercel.app/api/pin/?username=makersacademy&repo=skills-workshops" />
   </a>
 
 ## Feedback
