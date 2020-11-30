@@ -26,19 +26,25 @@ Click through to any of the following links for more detail.
 - I grow collaboratively
 
 ## Projects
-<a href="https://github.com/xavierloos/boris-bikes" target="_blank">
-    <img height="aut0" width="29%" src="https://github-readme-stats.vercel.app/api/pin/?username=xavierloos&repo=boris-bikes" />
+<a href="https://github.com/xavierloos/boris_bikes" target="_blank">
+    <img height="aut0" width="29%" src="https://github-readme-stats.vercel.app/api/pin/?username=xavierloos&repo=boris_bikes" />
   </a>
 
 ## Feedbacks
 
 ## Weeks
 The next table are link to the specific week, click the number or you can find them at the top of this page.
-|1|2|3|4|
+|<a href="https://github.com/xavierloos/Portfolio/blob/master/Week1.md">1</a>|2|3|4|
 |--|--|--|--|
 |5|6|7|8|
 |9|10|11|12|
 
 
 ## External Links
+- <a href="https://github.com/makersacademy/course">Makers Course</a>
+- <a href="https://airtable.com/shrn6cujjhTRxqfob/tblU9M74TCpg89oGC">Timetable</a>
+- <a href="https://forms.gle/Dzfosv8v6hZTJcF39">Pair Feedback Form</a>
+- <a href="https://relishapp.com/rspec/rspec-expectations/v/3-10/docs">RSPEC</a>
+
+
 

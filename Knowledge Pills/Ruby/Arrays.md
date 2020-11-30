@@ -11,8 +11,8 @@ Ruby arrays can hold objects such as String, Integer, Fixnum, Hash, Symbol, even
 
 ### Working with Arrays
 <details><summary>Creation</summary>
-  ```
-  myArray = Array.new
-  myArray = Array.new(20) #Set size of the array 
-  ```
+  <ul>
+    <li>myArray = Array.new</li>
+    <li>myArray = Array.new(20) <i>#Set size of the array</i></li>
+   <ul>
 </details>
