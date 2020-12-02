@@ -51,3 +51,4 @@ The next table are link to the specific week, click the number or you can find t
 - <a href="https://airtable.com/shrn6cujjhTRxqfob/tblU9M74TCpg89oGC">Timetable</a>
 - <a href="https://forms.gle/Dzfosv8v6hZTJcF39">Pair Feedback Form</a>
 - <a href="https://relishapp.com/rspec/rspec-expectations/v/3-10/docs">RSPEC</a>
+- [Mocks and Stubs](http://rubyblog.pro/2017/10/rspec-difference-between-mocks-and-stubs)
