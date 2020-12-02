@@ -53,3 +53,4 @@ The next table are link to the specific week, click the number or you can find t
 - <a href="https://relishapp.com/rspec/rspec-expectations/v/3-10/docs">RSPEC</a>
 - [Mocks and Stubs](http://rubyblog.pro/2017/10/rspec-difference-between-mocks-and-stubs)
 - [Week-outline](https://github.com/makersacademy/course/blob/master/week_outlines.md)
+- [Self-assess](https://github.com/makersacademy/course/blob/master/how-to/self-assess-after-end-of-unit-challenge.md#what-you-should-do-next-to-make-sure-you-can-improve-on-with-coding-processes)
