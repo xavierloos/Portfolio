@@ -34,6 +34,15 @@ Click through to any of the following links for more detail.
 <a href="https://github.com/xavierloos/boris_bikes" target="_blank">
     <img height="auto" width="39%" src="https://github-readme-stats.vercel.app/api/pin/?username=xavierloos&repo=boris_bikes" />
   </a>
+  <a href="https://github.com/xavierloos/airport_challenge" target="_blank">
+    <img height="auto" width="39%" src="https://github-readme-stats.vercel.app/api/pin/?username=xavierloos&repo=airport_challenge" />
+  </a>
+<a href="https://github.com/xavierloos/oyster_card" target="_blank">
+    <img height="auto" width="39%" src="https://github-readme-stats.vercel.app/api/pin/?username=xavierloos&repo=oyster_card" />
+  </a>
+  <a href="https://github.com/xavierloos/takeaway-challenge" target="_blank">
+    <img height="auto" width="39%" src="https://github-readme-stats.vercel.app/api/pin/?username=xavierloos&repo=takeaway-challenge" />
+  </a>
 
 ## Feedbacks
 
@@ -52,3 +61,9 @@ The next table are link to the specific week, click the number or you can find t
 - <a href="https://airtable.com/shrn6cujjhTRxqfob/tblU9M74TCpg89oGC">Timetable</a>
 - <a href="https://forms.gle/Dzfosv8v6hZTJcF39">Pair Feedback Form</a>
 - <a href="https://relishapp.com/rspec/rspec-expectations/v/3-10/docs">RSPEC</a>
+- [Mocks and Stubs](http://rubyblog.pro/2017/10/rspec-difference-between-mocks-and-stubs)
+- [Week-outline](https://github.com/makersacademy/course/blob/master/week_outlines.md)
+- [Self-assess](https://github.com/makersacademy/course/blob/master/how-to/self-assess-after-end-of-unit-challenge.md#what-you-should-do-next-to-make-sure-you-can-improve-on-with-coding-processes)
+- [Tracking your learning](https://github.com/makersacademy/course/blob/master/goals/self_directed_learning/resources/tracking_your_learning.md)
+- [Ed’s guide to self-directed learning](https://blog.makersacademy.com/eds-guide-to-self-directed-learning-20a9022e418c)
+- [3 Ways to Stop Comparing Yourself](https://blog.makersacademy.com/3-ways-to-stop-comparing-yourself-ff518bd71171)

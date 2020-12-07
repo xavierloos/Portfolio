@@ -20,12 +20,12 @@
 
 ## Challenges
 
-- Oyster
-- Takeway
-
-  <!-- <a href="https://github.com/xavierloos/boris_bikes" target="_blank">
-    <img height="aut0" width="29%" src="https://github-readme-stats.vercel.app/api/pin/?username=xavierloos&repo=boris_bikes" />
-  </a> -->
+<a href="https://github.com/xavierloos/oyster_card" target="_blank">
+    <img height="auto" width="39%" src="https://github-readme-stats.vercel.app/api/pin/?username=xavierloos&repo=oyster_card" />
+  </a>
+  <a href="https://github.com/xavierloos/takeaway-challenge" target="_blank">
+    <img height="auto" width="39%" src="https://github-readme-stats.vercel.app/api/pin/?username=xavierloos&repo=takeaway-challenge" />
+  </a>
 
 ## Skills Workshop
 
