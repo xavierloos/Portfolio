@@ -28,13 +28,17 @@ By the end of the week all developers can:
     <img height="auto" width="39%" src="https://github-readme-stats.vercel.app/api/pin/?username=xavierloos&repo=takeaway-challenge" />
   </a> -->
 
+## Resources
+
+- [Technical learning](https://airtable.com/shrlqxQm2BeUDvFyp/tblokmw6yNUO75ge6)
+
 ## Skills Workshop
 
 <!-- <a href="https://github.com/makersacademy/skills-workshops/tree/master/week-2/code_review" target="_blank">
 - Code Review
     <!-- <img height="aut0" width="29%" src="https://github-readme-stats.vercel.app/api/pin/?username=makersacademy&repo=skills-workshops" /> -->
 
-</a> -->
+<!-- </a> -->
 
 ## Feedback
 
