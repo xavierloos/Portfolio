@@ -63,3 +63,6 @@ The next table are link to the specific week, click the number or you can find t
 - [Mocks and Stubs](http://rubyblog.pro/2017/10/rspec-difference-between-mocks-and-stubs)
 - [Week-outline](https://github.com/makersacademy/course/blob/master/week_outlines.md)
 - [Self-assess](https://github.com/makersacademy/course/blob/master/how-to/self-assess-after-end-of-unit-challenge.md#what-you-should-do-next-to-make-sure-you-can-improve-on-with-coding-processes)
+- [Tracking your learning](https://github.com/makersacademy/course/blob/master/goals/self_directed_learning/resources/tracking_your_learning.md)
+- [Ed’s guide to self-directed learning](https://blog.makersacademy.com/eds-guide-to-self-directed-learning-20a9022e418c)
+- [3 Ways to Stop Comparing Yourself](https://blog.makersacademy.com/3-ways-to-stop-comparing-yourself-ff518bd71171)
