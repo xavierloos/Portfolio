@@ -7,7 +7,11 @@ By the end of the week all developers can:
 - Build a simple web app
 - Follow an effective debugging process for web applications
 - Explain the basics of how the web works (e.g. request/response, HTTP, HTML, CSS)
-- Explain the MVC pattern
+- Explain the MVC pattern (Model-view-controller)
+<details>
+  <summary>Model-view-controller</summary>
+Model–view–controller is a software design pattern commonly used for developing User interface that divides the related program logic into three interconnected elements. This is done to separate internal representations of information from the ways information is presented to and accepted from the user. Traditionally used for desktop graphical user interfaces, this pattern has become popular for designing web applications. Popular programming languages like JavaScript, Python, Object Pascal/Delphi, Ruby, PHP, Java, C#, and Swift have MVC frameworks that are used for web or mobile application development straight out of the box
+</details>
 
 ## Plan
 
