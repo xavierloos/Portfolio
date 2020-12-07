@@ -40,8 +40,9 @@ Click through to any of the following links for more detail.
 ## Weeks
 
 The next table are link to the specific week, click the number or you can find them at the top of this page.
-|<a href="https://github.com/xavierloos/Portfolio/blob/master/Week1.md">1</a>|<a href="https://github.com/xavierloos/Portfolio/blob/master/Week2.md">2</a>|3|4|
+|WEEK|
 |--|--|--|--|
+|[1](https://github.com/xavierloos/Portfolio/blob/master/Week1.md)|[2](https://github.com/xavierloos/Portfolio/blob/master/Week2.md)|[3](https://github.com/xavierloos/Portfolio/blob/master/Week3.md)|[4](https://github.com/xavierloos/Portfolio/blob/master/Week4.md)|
 |5|6|7|8|
 |9|10|11|12|
 
