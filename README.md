@@ -50,10 +50,11 @@ Click through to any of the following links for more detail.
 
 The next table are link to the specific week, click the number or you can find them at the top of this page.
 |WEEK|
-|--|--|--|--|
-|[1](https://github.com/xavierloos/Portfolio/blob/master/Week1.md)|[2](https://github.com/xavierloos/Portfolio/blob/master/Week2.md)|[3](https://github.com/xavierloos/Portfolio/blob/master/Week3.md)|[4](https://github.com/xavierloos/Portfolio/blob/master/Week4.md)|
-|5|6|7|8|
-|9|10|11|12|
+
+| [1](https://github.com/xavierloos/Portfolio/blob/master/Week1.md) | [2](https://github.com/xavierloos/Portfolio/blob/master/Week2.md)   | [3](https://github.com/xavierloos/Portfolio/blob/master/Week3.md)   | [4](https://github.com/xavierloos/Portfolio/blob/master/Week4.md)   |
+| ----------------------------------------------------------------- | ------------------------------------------------------------------- | ------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| [5](https://github.com/xavierloos/Portfolio/blob/master/Week5.md) | [6](https://github.com/xavierloos/Portfolio/blob/master/Week6.md)   | [7](https://github.com/xavierloos/Portfolio/blob/master/Week7.md)   | [8](https://github.com/xavierloos/Portfolio/blob/master/Week8.md)   |
+| [9](https://github.com/xavierloos/Portfolio/blob/master/Week9.md) | [10](https://github.com/xavierloos/Portfolio/blob/master/Week10.md) | [11](https://github.com/xavierloos/Portfolio/blob/master/Week11.md) | [12](https://github.com/xavierloos/Portfolio/blob/master/Week12.md) |
 
 ## External Links
 
