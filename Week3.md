@@ -25,12 +25,12 @@ Model–view–controller is a software design pattern commonly used for develop
 
 ## Challenges
 
-<!-- <a href="https://github.com/xavierloos/oyster_card" target="_blank">
-    <img height="auto" width="39%" src="https://github-readme-stats.vercel.app/api/pin/?username=xavierloos&repo=oyster_card" />
+<a href="https://github.com/xavierloos/battle" target="_blank">
+    <img height="auto" width="39%" src="https://github-readme-stats.vercel.app/api/pin/?username=xavierloos&repo=battle" />
   </a>
-  <a href="https://github.com/xavierloos/takeaway-challenge" target="_blank">
-    <img height="auto" width="39%" src="https://github-readme-stats.vercel.app/api/pin/?username=xavierloos&repo=takeaway-challenge" />
-  </a> -->
+  <a href="https://github.com/xavierloos/rps-challenge" target="_blank">
+    <img height="auto" width="39%" src="https://github-readme-stats.vercel.app/api/pin/?username=xavierloos&repo=rps-challenge" />
+  </a>
 
 ## Resources
 
