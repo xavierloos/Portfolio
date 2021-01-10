@@ -47,14 +47,20 @@ Click through to any of the following links for more detail.
   <img height="auto" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=xavierloos&repo=battle" />
 </a>
 <a href="https://github.com/xavierloos/rps-challenge" target="_blank">
-    <img height="auto" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=xavierloos&repo=rps-challenge" />
+  <img height="auto" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=xavierloos&repo=rps-challenge" />
 </a>
 <a href="https://github.com/xavierloos/bookmark_manager" target="_blank">
-    <img height="auto" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=xavierloos&repo=bookmark_manager" />
-  </a>
-  <a href="https://github.com/xavierloos/chitter-challenge" target="_blank">
-    <img height="auto" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=xavierloos&repo=chitter-challenge" />
-  </a>
+  <img height="auto" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=xavierloos&repo=bookmark_manager" />
+</a>
+<a href="https://github.com/xavierloos/chitter-challenge" target="_blank">
+  <img height="auto" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=xavierloos&repo=chitter-challenge" />
+</a>
+<a href="https://github.com/xavierloos/MakersBnB" target="_blank">
+  <img height="auto" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=xavierloos&repo=MakersBnB" />
+</a>
+<a href="https://github.com/xavierloos/bowling-challenge-ruby" target="_blank">
+  <img height="auto" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=xavierloos&repo=bowling-challenge-ruby" />
+</a>
 
 ## Feedbacks
 
