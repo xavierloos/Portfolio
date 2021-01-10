@@ -10,8 +10,12 @@ By the end of the week all developers can:
 
 ### Challenges
 
-- [Afternoons - Bookmark Manager](https://github.com/makersacademy/course/blob/master/bookmark_manager/00_challenge_map.md)
-- [End of unit - Chitter](https://github.com/xavierloos/chitter-challenge)
+<a href="https://github.com/xavierloos/bookmark_manager" target="_blank">
+    <img height="auto" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=xavierloos&repo=bookmark_manager" />
+  </a>
+  <a href="https://github.com/xavierloos/chitter-challenge" target="_blank">
+    <img height="auto" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=xavierloos&repo=chitter-challenge" />
+  </a>
 
 ### Practicals
 
