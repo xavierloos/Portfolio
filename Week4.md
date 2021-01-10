@@ -11,7 +11,7 @@ By the end of the week all developers can:
 ### Challenges
 
 - [Afternoons - Bookmark Manager](https://github.com/makersacademy/course/blob/master/bookmark_manager/00_challenge_map.md)
-- [End of unit - Chitter](https://github.com/makersacademy/chitter-challenge)
+- [End of unit - Chitter](https://github.com/xavierloos/chitter-challenge)
 
 ### Practicals
 
