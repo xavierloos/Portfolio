@@ -32,22 +32,28 @@ Click through to any of the following links for more detail.
 ## Projects
 
 <a href="https://github.com/xavierloos/boris_bikes" target="_blank">
-    <img height="auto" width="39%" src="https://github-readme-stats.vercel.app/api/pin/?username=xavierloos&repo=boris_bikes" />
-  </a>
-  <a href="https://github.com/xavierloos/airport_challenge" target="_blank">
-    <img height="auto" width="39%" src="https://github-readme-stats.vercel.app/api/pin/?username=xavierloos&repo=airport_challenge" />
-  </a>
+  <img height="auto" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=xavierloos&repo=boris_bikes" />
+</a>
+<a href="https://github.com/xavierloos/airport_challenge" target="_blank">
+  <img height="auto" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=xavierloos&repo=airport_challenge" />
+</a>
 <a href="https://github.com/xavierloos/oyster_card" target="_blank">
-    <img height="auto" width="39%" src="https://github-readme-stats.vercel.app/api/pin/?username=xavierloos&repo=oyster_card" />
+  <img height="auto" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=xavierloos&repo=oyster_card" />
+</a>
+<a href="https://github.com/xavierloos/takeaway-challenge" target="_blank">
+  <img height="auto" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=xavierloos&repo=takeaway-challenge" />
+</a>
+<a href="https://github.com/xavierloos/battle" target="_blank">
+  <img height="auto" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=xavierloos&repo=battle" />
+</a>
+<a href="https://github.com/xavierloos/rps-challenge" target="_blank">
+    <img height="auto" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=xavierloos&repo=rps-challenge" />
+</a>
+<a href="https://github.com/xavierloos/bookmark_manager" target="_blank">
+    <img height="auto" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=xavierloos&repo=bookmark_manager" />
   </a>
-  <a href="https://github.com/xavierloos/takeaway-challenge" target="_blank">
-    <img height="auto" width="39%" src="https://github-readme-stats.vercel.app/api/pin/?username=xavierloos&repo=takeaway-challenge" />
-  </a>
-  <a href="https://github.com/xavierloos/battle" target="_blank">
-    <img height="auto" width="39%" src="https://github-readme-stats.vercel.app/api/pin/?username=xavierloos&repo=battle" />
-  </a>
-  <a href="https://github.com/xavierloos/rps-challenge" target="_blank">
-    <img height="auto" width="39%" src="https://github-readme-stats.vercel.app/api/pin/?username=xavierloos&repo=rps-challenge" />
+  <a href="https://github.com/xavierloos/chitter-challenge" target="_blank">
+    <img height="auto" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=xavierloos&repo=chitter-challenge" />
   </a>
 
 ## Feedbacks
